@@ -1,6 +1,6 @@
 import logging
 
-from .utubebot import Utubebot
+from .utubebot import UtubeBot
 from .config import Config
 
 
